@@ -55,7 +55,7 @@ Este projeto consiste em uma planilha no Excel que permite simular investimentos
   - Cálculo do valor alocado em cada segmento.
 
 ## 🚀 Como utilizar
-1. Faça o download do arquivo ``.
+1. Faça o download do arquivo `Fundos Imobiliario.xlsx`.
 2. Abra no Excel.
 3. Preencha os campos de entrada:
    - Salário.
