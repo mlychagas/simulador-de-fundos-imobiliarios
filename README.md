@@ -26,11 +26,10 @@ Este projeto consiste em uma planilha no Excel que permite simular investimentos
 - ✅ Distribuição dos FIIs:
   - Papel, Título, Híbrido, FOF, Desenvolvimento e Hoteleiro.
 - ✅ Perfis de Investidor:
-  - Agressivo (implementado na versão atual).
+  - Agressivo, moderado e conservador.
 - ✅ Visualização:
   - Tabela de resultados.
   - Sugestões de alocação.
-  - Possibilidade de incluir gráficos.
 
 ## 🏗️ Layout da Planilha
 
@@ -71,7 +70,6 @@ Este projeto consiste em uma planilha no Excel que permite simular investimentos
 ## 🧠 Tecnologias e Ferramentas
 - ✅ Excel (planilhas e funções financeiras).
 - ✅ Git e GitHub (versionamento e documentação).
-- ✅ Markdown (documentação técnica).
 
 ## 🗒️ Aprendizados
 - Criação de simuladores financeiros no Excel.
